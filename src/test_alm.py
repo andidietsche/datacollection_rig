@@ -24,3 +24,4 @@ except KeyboardInterrupt:
 finally:
     # Clean up GPIO settings
     GPIO.cleanup()
+    
